@@ -3,6 +3,19 @@
 # Parcial1_INF324
 
 
+
+Esta es la solucion de las siguientes preguntas:
+
+1.      Genere una pantalla con templates (CSS y PHP) debidamente maquetado de acceso a la facultad y al menos tres carreras
+
+3.      Genere una pantalla de acceso (CSS y PHP) con la base de datos, controlando en las demás pantallas mediante sesiones
+
+
+Video:
+
+https://youtu.be/s2TD6a4RnpA
+
+
 Esta es la solucion de las siguientes preguntas:
 
 2.      Genere una pantalla con templates (CODEIGNITER) debidamente maquetado de acceso a la facultad y al menos tres carreras
