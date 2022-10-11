@@ -22,7 +22,6 @@ Esta es la solucion de las siguientes preguntas:
 
 4.      Con el rol DIRECTOR se puede visualizar por departamento la media de notas, solo código PHP bajando la consulta en un array (similar al case-when, pero sin usar estos OPT).
 
-5.      Con el rol DIRECTOR se puede visualizar por departamento la media de notas, solo SQL (case-when).
 
 6.      La misma anterior, pero con PYTHON lea la consulta SQL (case-when) y desplieguela.
 
@@ -30,6 +29,12 @@ Esta es la solucion de las siguientes preguntas:
 
 Video:
 https://youtu.be/fvPpuZFABx4
+
+Esta es la solucion a :
+
+
+5.      Con el rol DIRECTOR se puede visualizar por departamento la media de notas, solo SQL (case-when).
+
 
 
 
